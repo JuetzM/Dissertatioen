@@ -99,7 +99,7 @@ Nach Schätzungen der WHO erkrankten im Jahre 2020 weltweit etwa 509.900 Männer
 
 In der Bundesrepublik Deutschland erkrankten im Jahr 2018 nach Angaben des Robert-Koch-Instituts 14.310 Bürger an einem Karzinom der Kopf- /Hals-Region. Mit einem Anteil von 68,6% erkrankten Männer häufiger und bei einem medianen Erkrankungsalter von 64 Jahren zwei bis drei Jahre früher als Frauen. Damit ordnet sich diese Krebserkrankung bei den männlichen Erkrankten mit einem Anteil von 3,7% an neunter Stelle (Inzidenz 17/100.000) und bei den Frauen mit einem Anteil von 1,6% an 15. Stelle (Inzidenz 4/100.000) der gesamten Krebsneuerkrankungen in Deutschland ein. Seit einigen Jahren verlaufen die altersstandardisierten Neuerkrankungsraten in Deutschland bei den Frauen annährend konstant, bei den Männern ist sogar ein leichter Rückgang zu beobachten.
 
-![Abbildungen/image1.png](Abbildungen/image1.png)
+![Abbildungen/image1.png](https://github.com/JuetzM/Dissertatioen/blob/29851c3fdb209335f4751021a26fd8d721322a9e/Abbildungen/image1.png)
 
 **Abbildung 2‑1: Altersstandardisierte Neuerkrankungs- und Sterberaten (Europastandard) nach Geschlecht, ICD-10 C00 – C14, Deutschland 1999 – 2018/2019, Prognose (Inzidenz) bis 2022 (Quelle: Zentrum f. Krebsregisterdaten 2021)**
 
