@@ -1,0 +1,65 @@
+name: Replace Image Links in README
+
+on:
+  push:
+    paths:
+      - 'README.md'
+  workflow_dispatch:
+
+jobs:
+  replace-links:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Install Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Replace image links in README.md
+      run: |
+        import os
+        import re
+
+        repo = os.getenv('GITHUB_REPOSITORY')
+        readme_path = 'README.md'
+
+        # Direct URLs for images
+        image_urls = {
+            'Abbildungen/image1.png': 'https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image1.png',
+            'Abbildungen/image13.png': 'https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image13.png',
+            'Abbildungen/image14.png': 'https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image14.png',
+            'Abbildungen/image15.png': 'https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image15.png',
+            'Abbildungen/image16.png': 'https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image16.png',
+            'Abbildungen/image17.png': 'https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image17.png',
+            'Abbildungen/image18.png': 'https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image18.png',
+            'Abbildungen/image19.png': 'https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image19.png',
+            'Abbildungen/image2.png': 'https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image2.png',
+            'Abbildungen/image20.png': 'https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image20.png',
+            'Abbildungen/image3.jpeg': 'https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image3.jpeg',
+            'Abbildungen/image4.png': 'https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image4.png',
+            'Abbildungen/image5.jpeg': 'https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image5.jpeg',
+            'Abbildungen/image6.jpeg': 'https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image6.jpeg',
+            'Abbildungen/image7.emf': 'https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image7.emf',
+            'Abbildungen/image8.png': 'https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image8.png'
+        }
+
+        with open(readme_path, 'r') as file:
+            content = file.read()
+
+        for image, url in image_urls.items():
+            content = re.sub(f'!\\[{image}\\]\\({image}\\)', f'![{image}]({url})', content)
+
+        with open(readme_path, 'w') as file:
+            file.write(content)
+
+    - name: Commit changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add README.md
+        git commit -m 'Update image links in README.md'
+        git push
