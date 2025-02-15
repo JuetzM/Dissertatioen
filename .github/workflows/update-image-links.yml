@@ -14,35 +14,31 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v2
 
-    - name: Generate Image URLs
-      id: generate-urls
+    - name: Generate Image URLs and Update README.md
+      id: update-readme
       run: |
         IMAGE_PATH="Abbildungen"
-        IMAGE_FILES=$(ls $IMAGE_PATH)
         README_FILE="README.md"
         
-        for image in $IMAGE_FILES; do
-          IMAGE_URL="https://github.com/${{ github.repository }}/blob/main/$IMAGE_PATH/$image"
-          IMAGE_MARKDOWN="![${image}]($IMAGE_URL)"
-          echo "Generated Markdown for $image: $IMAGE_MARKDOWN"
-        done
-
-    - name: Update README.md
-      run: |
-        IMAGE_PATH="Abbildungen"
+        # Find all image files in the specified folder
         IMAGE_FILES=$(ls $IMAGE_PATH)
-        README_FILE="README.md"
-        
+
+        # Backup the original README.md
+        cp $README_FILE README.md.bak
+
+        # Loop through each image file and replace its path in README.md with its permalink
         for image in $IMAGE_FILES; do
           IMAGE_URL="https://github.com/${{ github.repository }}/blob/main/$IMAGE_PATH/$image"
-          IMAGE_MARKDOWN="![${image}]($IMAGE_URL)"
-          sed -i "/# Abbildungen/a $IMAGE_MARKDOWN" $README_FILE
+          sed -i "s|!\[$IMAGE_PATH/$image\](.*)|![$IMAGE_PATH/$image]($IMAGE_URL)|g" $README_FILE
         done
 
-    - name: Commit and Push Changes
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add README.md
-        git commit -m "Update README.md with image links"
-        git push
+        # Check if there are any changes to commit
+        if ! git diff --quiet; then
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add $README_FILE
+          git commit -m "Update README.md with image permalinks"
+          git push
+        else
+          echo "No changes to commit."
+        fi
