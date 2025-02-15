@@ -201,7 +201,7 @@ Als weitere Ursache von etwa einem Viertel der Plattenepithelkarzinome gilt, una
 
 Die Entstehung eines Tumors beginnt mit der Transformation, der Umwandlung einer gesunden Zelle in eine Tumorzelle ([Böcker, 2008](about:blank#_ENREF_12)). Diese läuft in vier Phasen ab und kann mehrere Jahre dauern. Zuerst ändern wachstumsregulatorische Gene ihre Struktur. Dazu kann es z.B. spontan, durch kanzerogene Noxen, durch Onkogene oder durch Schädigung von Kontrollgenen kommen. Diese Phase nennt man Initiationsphase. In der zweiten Phase scheitern zelluläre Reparaturmechanismen bei der Wiederherstellung der physiologischen Wachstumsregulation. In der dritten Phase schaffen es die Abwehrmechanismen nicht die transformierte Zelle zu zerstören. In der letzten Phase, der Promotionsphase, werden die veränderten genetischen Informationen von der Zelle umgesetzt. Die Bösartigkeit der entarteten Zellen ist dabei durch unkontrollierte Teilung und hohe Proliferationsraten charakterisiert ([Heinrich et al., 2014](about:blank#_ENREF_39)). Dadurch entsteht eine verschobene Kern- Plasma-Relation zugunsten des Kernes. Die Mitoserate ist erhöht und es zeigen sich viele atypische Mitosen. Die Zellen sind verstärkt anfärbbar, was man als Hyperchromatismus bezeichnet. Es kommt zu einer Entdifferenzierung, also einem Verlust der ursprünglichen Zellstruktur und der Funktionen des normalen Gewebes. Es zeigt sich ein Polymorphismus, eine Vielgestaltigkeit der Zellen oder eine Zellheterotopie, also ein Vorliegen eines Zelltyps an einer Lokalisation, an der er typischerweise nicht vorkommt. Es findet sich ein invasives, infiltrierendes und destruierendes Wachstum mit Durchbruch der Basalmembran und einer Neigung zu Metastasierung und Rezidiven ([Cawson & Odell, 2008](about:blank#_ENREF_19)). Den Übergang von normalem Epithel über Dysplasien zu einem invasiven Karzinom zeigt die **Abbildung *2‑2***.
 
-![Abbildungen/image2.png](Abbildungen/image2.png)
+![Abbildungen/image2.png](https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image2.png)
 
 **Abbildung 2‑2: Karzinogenes eines Mundschleimhautepithels zu einem invasivem Plattenepithelkarzinoms in der HE-Färbung (**[Argiris et al., 2008](about:blank#_ENREF_7)**).**
 
@@ -213,7 +213,7 @@ Zur Wahl des adäquaten Behandlungsverfahrens und zur exakten Dokumentation als 
 
 Tumore im Kopf-Hals-Bereich stellen eine heterogene Gruppe von bösartigen Neubildungen des oberen Aerodigestivtrakts dar und werden in 5 unterschiedliche anatomische Bereich unterteilt, nämlich in Mundhöhle, Naso-, Oro-, Hypopharynx und Larynx.
 
-![Abbildungen/image3.jpeg](Abbildungen/image3.jpeg)
+![Abbildungen/image3.jpeg](https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image3.jpeg)
 
 **Abbildung 2‑3: Anatomie der Kopf-Hals-Region im Sagitalschnitt.** Oral cavity, Mundhöhle; Tongue, Zunge; Larynx, Kehlkopf; Nasopharynx, Nasenrachenraum; Oropharynx, der Mundhöhle angrenzender Rachenraum; Hypopharynx, unterer Rachenraum ([Sabatini & Chiocca, 2020](about:blank#_ENREF_63)).
 
@@ -237,7 +237,7 @@ Um das Wachstumsverhalten und die Aggressivität eines malignen Tumors auf histo
 | G3 | schlecht differenziert | Niedrigdifferenziertes Karzinom mit kaum noch plattenepithelialer Differenzierung, so dass zur Diagnostik zum Teil auch Spezialunter-suchungen notwendig werden. |
 | G4 | undifferenziert |  |
 
-![Abbildungen/image4.png](Abbildungen/image4.png)
+![Abbildungen/image4.png](https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image4.png)
 
 **Abbildung 2‑4: a Gut differenziertes Plattenepithelkarzinom. b Mäßig differenziertes Platten-epithelkarzinom. c Gering differenziertes Plattenepithelkarzinom (**[Cardesa et al., 2008](about:blank#_ENREF_17)**).**
 
@@ -602,11 +602,11 @@ Um das Vorhandensein eines Plattenepithelkarzinoms histologisch zu bestätigen u
 
 Nachdem die mikroskopisch repräsentativen Bereiche der in Paraffin eingebetteten Operationsresektate entsprechend der HE-Referenzpräparate auf dem Spender-Block übertragen wurden, erfolgte die Anfertigung von Gewebe-Mikroarrays (tissue micro arrays, TMA). Dazu wurden mit einem semiautomatischen Gewebe-Mikro-Arrayer (MiniCore®, Alphelys) 1 mm dicke Gewebezylinder über eine Hohlnadel aus vorher ausgewählten repräsentativen Tumorarealen im Spenderblock ausgestanzt. Diese Gewebezylinder wurden in leere Stanzlöcher eines Empfängerblocks überführt. Idealerweise wurden je Fall drei Stanzzylinder entnommen, um die Heterogenität innerhalb des Tumors zu berücksichtigen. Somit war es möglich pro Trägerblock bis zu 112 Stanzen einzubringen. Durch Erhitzung auf 60°C über 5 Minuten konnte ein Verbund des Träger- und Gewebeparaffins erreicht werden. Die Anordnung der Stanzzylinder im Empfängerblock erfolgte über einen zuvor definierten Lageplan, der für die spätere Auswertung eine eindeutige Zuordnung zum pseudonymisierten Patienten gewährleistet. In Abbildung sind der Aufbau und das Prinzip der TMA-Technik sowie der Dokumentation beispielhaft dargestellt.
 
-![Abbildungen/image5.jpeg](Abbildungen/image5.jpeg)
+![Abbildungen/image5.jpeg](https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image5.jpeg)
 
 Abbildung 4‑1: Aufbau der Tissue Microarray-Technik sowie Prinzip der Ortsdokumentation der einzelnen Tumor-Spots
 
-![Abbildungen/image6.jpeg](Abbildungen/image6.jpeg)
+![Abbildungen/image6.jpeg](https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image6.jpeg)
 
 ### Immunhistologische Reaktionen
 
@@ -618,7 +618,7 @@ Für die immunhistochemische Färbung wurden von jedem TMA-Block jeweils 3 μm d
 
 Die lichtmikroskopische Auswertung der immunhistochemisch gefärbten TMA-Schnitte erfolgte durch zwei unabhängige Untersucher (A.L. und C.v.N.; <5% Abweichung zwischen den Ergebnissen beider Untersucher). Die Auswertung erfolgte semiquantitativ bei 100-, 200- und 400-facher Vergrößerung am Axioskop 50 (Zeiss, Germany) unter Berücksichtigung der Färbeintensität (negativ, +, ++). Jede Gewebestanze wurde zunächst separat bewertet. Als nicht auswertbar galten neben nicht vorhandenen Stanzen solche, die nicht oder nur zu einem kleinen Teil (<10%) aus Tumorgewebe bestanden, außerdem jene, welche sich inhomogen anfärbten. Bei mehreren auswertbaren Stanzen pro Patientenprobe wurde nur die stärkste Färbeintensität berücksichtigt. Karzinome mit mäßiger oder starker CD44-Expression (+, ++) wurden als CD44-positiv angesehen und Karzinome mit nicht nachweisbarer CD44-Expression (0) wurden als CD44-negativ für die weitere statistische Auswertung berücksichtigt. Ein Tumor galt insgesamt als nicht bewertbar, wenn weniger als zwei auswertbare Stanzen vorhanden waren. Nicht bewertbare Tumoren gingen nicht in die Statistik mit ein. Insgesamt waren jedoch TMA-Kerne von 195 Patienten hinsichtlich der CD44-Proteinexpression auswertbar.
 
-![Abbildungen/image6.jpeg](Abbildungen/image6.jpeg)
+![Abbildungen/image6.jpeg](https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image6.jpeg)
 
 **Abbildung 4‑2: Immunhistochemische Färbung von CD44 mit unterschiedlichen Färbeintensitäten. Alle Färbeintensitäten (+, ++, +++) wurden als positive Färbung angesehen**
 
@@ -878,7 +878,7 @@ Die Anzahl aller Ereignisse für die loko-regionäre Tumorkontrolle (lokales Ver
 
 Die medianen Nachbeobachtungszeiten des Patientenkollektivs ab Beginn der Strahlentherapie bis zum Erreichen der jeweiligen Endpunkte oder Zensierungen betrugen im durschnitt 47,1 Monate (3,9 Jahre) mit einer mittleren Spannweite von 2,2 bis 100,1 Monaten. In diesem Zeitraum kam es bei 29 der 221 (13,1%) beobachteten Patienten zu einem loko-regionären Rezidiv im Bereich des Bestrahlungsvolumens. Das erste Rezidiv wurde nach 2,1 Monaten im Bereich der Mundhöhle diagnostiziert. Das längste Intervall bis zum Auftreten eines loko-regionären Rezidivs betrug 68,2 Monate und trat im Bereich des Hypopharynx auf. Anteilsmäßig traten die meisten Rezidive mit 25% im Bereich der Mundhöhle auf. Lediglich bei 8,7% der Patienten mit Oropharynxkarzinom und bei 8,6% der Patienten mit Hypopharynxkarzinom wurde im Beobachtungszeitraum ein loko-regionäres Rezidiv diagnostiziert. Die nach Kaplan-Meier geschätzten Ereignisraten der loko-regionären Tumorkontrolle sind in Abbildung 5‑1 dargestellt. Postoperativ waren nach 2 Jahren 89,6 % (Standardfehler 2,1%) der Patienten lokal und regional Rezidiv-frei und nach 5 Jahren 85,7% (Standardfehler 2,6%).Da im Beobachtungszeitraum in allen untersuchten Endpunkten bei weniger als 50% der Klienten ein Ereignis eingetreten war, konnten die medianen Überlebenszeiten nicht berechnet werden. Die mediane Ereignisfreie Zeit beträgt daher mindestens 60 Monate. Die Ereignis-freie Zeit bezogen auf die loko-regionäre Tumorkontrolle betrug durchschnittlich 87,3 Monate (95%-KI, 82,8 bis 91,7 Monate).[1](about:blank#fn1)
 
-![Abbildungen/image8.png](Abbildungen/image8.png)
+![Abbildungen/image8.png](https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image8.png)
 
 **Abbildung 5‑1: Lokoregionäre Kontrollrate nach Kaplan-Meier für das Gesamtkollektiv**
 
@@ -947,17 +947,17 @@ Um herauszufinden, ob das Vorhandensein einer CD44-Proteinexpression im Tumorgew
 | --- | --- |
 |  |  |
 
-![Abbildungen/image13.png](Abbildungen/image13.png)
+![Abbildungen/image13.png](https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image13.png)
 
-![Abbildungen/image14.png](Abbildungen/image14.png)
+![Abbildungen/image14.png](https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image14.png)
 
-![Abbildungen/image15.png](Abbildungen/image15.png)
+![Abbildungen/image15.png](https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image15.png)
 
-![Abbildungen/image16.png](Abbildungen/image16.png)
+![Abbildungen/image16.png](https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image16.png)
 
 **Abbildung 5‑6: Kaplan-Meier Schätzungen der sekundären Endpunkte von CD44-Protein (bewertet durch IHC) allen Patienten oder (C, E, G, I) Patienten mit HPV16 DNA-negativem HNSCC.** Patienten mit geringer oder keiner CSC-Markerexpression zeigten eine bessere loko-regionale Tumorkontrolle im Vergleich zu Patienten mit stärkerer CSC-Markerexpression.
 
-![Abbildungen/image17.png](Abbildungen/image17.png)
+![Abbildungen/image17.png](https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image17.png)
 
 In univariate Analysen wurden das Patientenkollektiv stratifiziert in CD44 positive und negative und die Überlebensdaten der beider Gruppen mit Hilfe des Kaplane-Meier Verfahrens untersucht. Die geschätzten Überlebenszeiten beide Gruppen wurden m.H. des Log-rank Test miteinander verglichen. Die Untersuchung ergab eine ein signifikant besseres klinisches outcome einen hochsignifikanten Überlebensvorteil für Patienten mit p16INK4A- positiven Karzinomen (p < 0,001) (Abb.16A)
 
@@ -1401,11 +1401,11 @@ Abschließend möchte ich mich bei allen Personen bedanken, die mich auf dem We
 | Tod | 11 (15,3%) | 1 (14,3%) | 9 (15,0%) | 1 (20,0%) |
 | Zensiert | 52 (72,2%) |  |  |  |
 
-![Abbildungen/image18.png](Abbildungen/image18.png)
+![Abbildungen/image18.png](https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image18.png)
 
-![Abbildungen/image19.png](Abbildungen/image19.png)
+![Abbildungen/image19.png](https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image19.png)
 
-![Abbildungen/image20.png](Abbildungen/image20.png)
+![Abbildungen/image20.png](https://github.com/JuetzM/Dissertatioen/blob/main/Abbildungen/image20.png)
 
 Sehr geehrte Damen und Herren,
 
