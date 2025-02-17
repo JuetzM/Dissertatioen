@@ -1,2 +1,5 @@
 {
+    "files.autoSave": "onFocusChange",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.insertSpaces": true
 }
